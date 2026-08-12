@@ -1,4 +1,4 @@
-# Splunk Home Lab
+# Splunk Lab
 
 ## 🧑‍💻Scenarios
 
